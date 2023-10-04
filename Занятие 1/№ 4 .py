@@ -1,3 +1,4 @@
 import datetime
 s = 354520
-print(datetime.timedelta(seconds=s))
+d = datetime.timedelta(seconds=s)
+print(d)
